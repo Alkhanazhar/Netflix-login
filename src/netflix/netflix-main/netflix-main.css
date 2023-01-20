@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    height: 500px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    width: 700px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
